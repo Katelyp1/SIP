@@ -1,11 +1,11 @@
 {
 	"common":{
-		"follow":"Follow",
-		"unfollow":"Following",
-		"confirm":"Confirm",
-		"cancel":"Cancel",
-		"clear":"Clear",
-		"submit":"Submit",
+		"follow":"Подписаться",
+		"unfollow":"Отписаться",
+		"confirm":"Подтвердить",
+		"cancel":"Отмена",
+		"clear":"Очистить",
+		"submit":"Отправить",
 		"verify":"Verify",
 		"apply":"Apply",
 		"save":"Save",
